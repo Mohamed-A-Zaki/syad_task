@@ -4,11 +4,14 @@ import logo_2 from "../assets/logo_2.png";
 import footer_logo_1 from "../assets/footer_logo_1.svg";
 import footer_logo_2 from "../assets/footer_logo_2.png";
 
+import footer_bg from "../assets/footer.png";
+
 const images = {
   logo_1,
   logo_2,
   footer_logo_1,
   footer_logo_2,
+  footer_bg,
 };
 
 export default images;

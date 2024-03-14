@@ -5,7 +5,10 @@ import { Container, Group, SimpleGrid, Stack } from "@mantine/core";
 
 export default function Footer() {
   return (
-    <footer className="bg-[url('footer.png')] bg-no-repeat bg-cover text-white py-5">
+    <footer
+      style={{ backgroundImage: `url(${images.footer_bg})` }}
+      className={`bg-no-repeat bg-cover text-white py-5`}
+    >
       <Container size={"lg"}>
         <Group justify="space-between">
           <Group>
