@@ -15,6 +15,14 @@ import stats_icon_2 from "../assets/stats_icon_2.svg";
 import stats_icon_3 from "../assets/stats_icon_3.svg";
 import stats_icon_4 from "../assets/stats_icon_4.svg";
 
+import partner_1 from "../assets/partner_1.png";
+import partner_2 from "../assets/partner_2.png";
+import partner_3 from "../assets/partner_3.png";
+import partner_4 from "../assets/partner_4.png";
+import partner_5 from "../assets/partner_5.png";
+import partner_6 from "../assets/partner_6.png";
+import partner_7 from "../assets/partner_7.png";
+
 const images = {
   logo_1,
   logo_2,
@@ -29,6 +37,13 @@ const images = {
   stats_icon_2,
   stats_icon_3,
   stats_icon_4,
+  partner_1,
+  partner_2,
+  partner_3,
+  partner_4,
+  partner_5,
+  partner_6,
+  partner_7,
 };
 
 export default images;

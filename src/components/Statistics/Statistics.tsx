@@ -5,12 +5,12 @@ export default function Statistics() {
   return (
     <section className="py-10 text-white text-center bg-[#C5D8D3]">
       <Container size={"lg"}>
-        <SimpleGrid cols={{ base: 1, sm: 2, md: 4 }}>
+        <SimpleGrid cols={{ base: 1, xs: 2, sm: 3, md: 4 }}>
           <div className="relative group">
             <img
               src={images.stats_1}
               alt=""
-              className="group-hover:scale-110 transition duration-300"
+              className="group-hover:scale-110 transition duration-300 w-full "
             />
             <Stack
               gap={5}
@@ -26,7 +26,7 @@ export default function Statistics() {
             <img
               src={images.stats_2}
               alt=""
-              className="group-hover:scale-110 transition duration-300"
+              className="group-hover:scale-110 transition duration-300 w-full"
             />
             <Stack
               gap={5}
@@ -42,7 +42,7 @@ export default function Statistics() {
             <img
               src={images.stats_3}
               alt=""
-              className="group-hover:scale-110 transition duration-300"
+              className="group-hover:scale-110 transition duration-300 w-full"
             />
             <Stack
               gap={5}
@@ -58,7 +58,7 @@ export default function Statistics() {
             <img
               src={images.stats_4}
               alt=""
-              className="group-hover:scale-110 transition duration-300"
+              className="group-hover:scale-110 transition duration-300 w-full"
             />
             <Stack
               gap={5}
