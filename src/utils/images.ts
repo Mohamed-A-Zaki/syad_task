@@ -23,6 +23,10 @@ import partner_5 from "../assets/partner_5.png";
 import partner_6 from "../assets/partner_6.png";
 import partner_7 from "../assets/partner_7.png";
 
+import app_bg from "../assets/app_bg.png";
+import app from "../assets/app.png";
+import google_play from "../assets/google_play.png";
+
 const images = {
   logo_1,
   logo_2,
@@ -44,6 +48,9 @@ const images = {
   partner_5,
   partner_6,
   partner_7,
+  app_bg,
+  app,
+  google_play,
 };
 
 export default images;
