@@ -1,5 +1,5 @@
-import Icons from "../../utils/icons";
-import images from "../../utils/images";
+import Icons from "@/utils/icons";
+import images from "@/utils/images";
 import { Link } from "react-router-dom";
 import { Container, Group, SimpleGrid, Stack } from "@mantine/core";
 

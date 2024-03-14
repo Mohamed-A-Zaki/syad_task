@@ -1,3 +1,9 @@
+import Statistics from "@/components/Statistics";
+
 export default function HomePage() {
-  return <></>;
+  return (
+    <>
+      <Statistics />
+    </>
+  );
 }
