@@ -34,6 +34,10 @@ import events_bg from "../assets/events_bg.png";
 import events_1 from "../assets/events_1.jpg";
 import events_2 from "../assets/events_2.jpg";
 
+import slider_1 from "../assets/slider_1.png";
+import slider_2 from "../assets/slider_2.png";
+import slider_3 from "../assets/slider_3.png";
+
 const images = {
   logo_1,
   logo_2,
@@ -63,6 +67,9 @@ const images = {
   events_bg,
   events_1,
   events_2,
+  slider_1,
+  slider_2,
+  slider_3,
 };
 
 export default images;
