@@ -27,6 +27,9 @@ import app_bg from "../assets/app_bg.png";
 import app from "../assets/app.png";
 import google_play from "../assets/google_play.png";
 
+import news_1 from "../assets/news_1.png"
+import news_2 from "../assets/news_2.png"
+
 const images = {
   logo_1,
   logo_2,
@@ -51,6 +54,8 @@ const images = {
   app_bg,
   app,
   google_play,
+  news_1,
+  news_2
 };
 
 export default images;

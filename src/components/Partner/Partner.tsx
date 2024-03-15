@@ -6,7 +6,7 @@ export default function Partner() {
   return (
     <section className="py-10 px-3">
       <Title
-        order={3}
+        order={2}
         className="!text-3xl border-b-4 w-fit !m-auto pb-2 border-[#f2d785]"
       >
         شركاء المبادرة

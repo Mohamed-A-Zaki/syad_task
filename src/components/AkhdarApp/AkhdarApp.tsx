@@ -12,7 +12,7 @@ export default function AkhdarApp() {
           <img src={images.app} alt="app" />
 
           <Stack gap={"lg"} className="text-center md:text-start">
-            <Title order={3} className="!text-4xl">
+            <Title order={2} className="!text-4xl">
               تطبيق أخضر مكة
             </Title>
             <p className="text-xl font-semibold">
