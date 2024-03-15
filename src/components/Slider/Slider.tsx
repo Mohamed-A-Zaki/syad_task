@@ -6,6 +6,7 @@ import video from "@/assets/video.mp4";
 import ReactPlayer from "react-player";
 import { Carousel } from "@mantine/carousel";
 import { Group, Stack, Title } from "@mantine/core";
+// import { AnimationOnScroll } from "react-animation-on-scroll";
 
 export default function Slider() {
   const [isPlay, setIsPlay] = useState(false);
@@ -46,6 +47,7 @@ export default function Slider() {
             className="text-white absolute top-1/2 -translate-y-1/2 px-12"
             gap={"xl"}
           >
+            {/* <AnimationOnScroll animateIn="animate__fadeInRight"> */}
             <div>
               <span className="font-bold text-2xl">مرحبا بكم في</span>
 
@@ -53,7 +55,9 @@ export default function Slider() {
                 بوابة اخضر مكة
               </Title>
             </div>
+            {/* </AnimationOnScroll> */}
 
+            {/* <AnimationOnScroll animateIn="animate__fadeInUp"> */}
             <div className="text-2xl font-bold">
               <span>ضمن مبادرة السعودية الخضراء</span>
               <p>
@@ -64,6 +68,7 @@ export default function Slider() {
                 قوي فى تحقيق بيئة مستدامة
               </p>
             </div>
+            {/* </AnimationOnScroll> */}
 
             <Group
               gap={"sm"}
