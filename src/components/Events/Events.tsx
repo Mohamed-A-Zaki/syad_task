@@ -13,7 +13,7 @@ export default function Events() {
       <Container size={"lg"}>
         <Title
           order={2}
-          className="text-white w-fit font-bold border-b-[3px] border-[#f2d785]"
+          className="text-white w-fit font-bold border-b-[3px] border-yellow_color"
         >
           الفعاليات والأحداث
         </Title>

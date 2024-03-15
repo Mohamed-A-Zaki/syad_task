@@ -17,7 +17,7 @@ export default function News() {
             <SimpleGrid cols={{ base: 1, md: 2 }} spacing={"xl"}>
               <Stack className="text-right">
                 <div>
-                  <div className="border-b-[3px] border-[#f2d785] pb-1 w-fit text-text_color ml-auto">
+                  <div className="border-b-[3px] border-yellow_color pb-1 w-fit text-text_color ml-auto">
                     المستجدات
                   </div>
                   <p className="text-[#00B6BB] text-2xl font-semibold my-5">
@@ -53,7 +53,7 @@ export default function News() {
             <SimpleGrid cols={{ base: 1, md: 2 }} spacing={"xl"}>
               <Stack className="text-right">
                 <div>
-                  <div className="border-b-[3px] border-[#f2d785] pb-1 w-fit text-text_color ml-auto">
+                  <div className="border-b-[3px] border-yellow_color pb-1 w-fit text-text_color ml-auto">
                     المستجدات
                   </div>
                   <p className="text-[#00B6BB] text-2xl font-semibold my-5">

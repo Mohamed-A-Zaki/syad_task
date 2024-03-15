@@ -6,6 +6,7 @@ export default {
       colors: {
         main_color: "#2e735f",
         text_color: "#707070",
+        yellow_color: "#f2d785",
       },
     },
   },
