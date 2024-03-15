@@ -8,6 +8,7 @@ import {
   FaSafari,
   FaFirefox,
   FaUser,
+  FaVideo,
 } from "react-icons/fa";
 
 const Icons = {
@@ -20,6 +21,7 @@ const Icons = {
   FaSafari,
   FaFirefox,
   FaUser,
+  FaVideo,
 };
 
 export default Icons;
