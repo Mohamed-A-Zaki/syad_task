@@ -10,7 +10,7 @@ export default function Statistics() {
             <img
               src={images.stats_1}
               alt=""
-              className="group-hover:scale-110 transition duration-300 w-full "
+              className="group-hover:scale-110 transition duration-300 w-full rounded-md"
             />
             <Stack
               gap={5}
@@ -26,7 +26,7 @@ export default function Statistics() {
             <img
               src={images.stats_2}
               alt=""
-              className="group-hover:scale-110 transition duration-300 w-full"
+              className="group-hover:scale-110 transition duration-300 w-full rounded-md"
             />
             <Stack
               gap={5}
@@ -42,7 +42,7 @@ export default function Statistics() {
             <img
               src={images.stats_3}
               alt=""
-              className="group-hover:scale-110 transition duration-300 w-full"
+              className="group-hover:scale-110 transition duration-300 w-full rounded-md"
             />
             <Stack
               gap={5}
@@ -58,7 +58,7 @@ export default function Statistics() {
             <img
               src={images.stats_4}
               alt=""
-              className="group-hover:scale-110 transition duration-300 w-full"
+              className="group-hover:scale-110 transition duration-300 w-full rounded-md"
             />
             <Stack
               gap={5}

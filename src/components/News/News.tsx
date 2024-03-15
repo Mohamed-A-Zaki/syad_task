@@ -44,7 +44,7 @@ export default function News() {
               <img
                 src={images.news_1}
                 alt="news_1"
-                className="rounded-tr-[60px]"
+                className="rounded-tr-[60px] rounded-md"
               />
             </SimpleGrid>
           </Carousel.Slide>
@@ -81,7 +81,7 @@ export default function News() {
               <img
                 src={images.news_2}
                 alt="news_2"
-                className="rounded-tr-[60px]"
+                className="rounded-tr-[60px] rounded-md"
               />
             </SimpleGrid>
           </Carousel.Slide>
