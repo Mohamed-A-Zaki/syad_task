@@ -38,6 +38,8 @@ import slider_1 from "../assets/slider_1.png";
 import slider_2 from "../assets/slider_2.png";
 import slider_3 from "../assets/slider_3.png";
 
+import maps_bg from "../assets/maps_bg.png";
+
 const images = {
   logo_1,
   logo_2,
@@ -70,6 +72,7 @@ const images = {
   slider_1,
   slider_2,
   slider_3,
+  maps_bg,
 };
 
 export default images;

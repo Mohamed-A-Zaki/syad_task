@@ -8,7 +8,7 @@ import { Carousel } from "@mantine/carousel";
 import { Group, Stack, Title } from "@mantine/core";
 
 export default function Slider() {
-  const [isPlay, setIsPlay] = useState(true);
+  const [isPlay, setIsPlay] = useState(false);
 
   return (
     <>

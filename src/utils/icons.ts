@@ -1,4 +1,5 @@
 import { IoIosArrowDown, IoIosArrowBack } from "react-icons/io";
+import { FaLocationDot } from "react-icons/fa6";
 
 import {
   FaYoutube,
@@ -22,6 +23,7 @@ const Icons = {
   FaFirefox,
   FaUser,
   FaVideo,
+  FaLocationDot,
 };
 
 export default Icons;
