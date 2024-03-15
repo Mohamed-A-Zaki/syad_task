@@ -23,7 +23,7 @@ function Navbar() {
   const [linksOpened, { toggle: toggleLinks }] = useDisclosure(false);
 
   return (
-    <Box className="shadow p-5">
+    <Box className="shadow p-5 sticky top-0 bg-white z-50">
       {/* ======================= start header ======================== */}
 
       <header>
